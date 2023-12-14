@@ -1,0 +1,50 @@
+{
+  
+  "users":[
+    {
+        "id": 1,
+        "name": "paramesh",
+        "age": 23,
+        "email":"paramesh@gmail.com",
+        "password":"1122"
+      },
+        {
+          "id": 2,
+          "name": "eshwar",
+          "age": 24,
+          "email":"eshwar@gmail.com",
+          "password":"1122"
+        },
+        {
+          "id": 3,
+          "name": "vittla",
+        "age": 23,
+        "email":"vittal@gmail.com",
+        "password":"1122"
+        },
+          {
+            "id": 4,
+            "name": "paramesh",
+        "age": 23,
+        "email":"parameshwarredd@gmail.com",
+        "password":"1122"
+          },
+          {
+            "id": 5,
+            "name": "ramesh",
+        "age": 23,
+        "email":"paramesh055@gmail.com",
+        "password":"1122"
+          }
+],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

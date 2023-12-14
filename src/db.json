@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "Severity": "Minor",
+            "description": "Spring tool suite  is not supprotig Java 1.8",
+            "Status":"Closed"
+          },
+            {
+              "id": 2,
+              "Severity": "Major",
+              "description": "Eclips application is not opnening and getting error as version not supproting",
+              "Status":"closed"
+            },
+            {
+              "id": 3,
+              "Severity": "Critical",
+              "description": "JSP Extension is not working in Eclipse",
+              "Status":"In progress"
+            },
+              {
+                "id": 4,
+                "Severity": "Major",
+                "description": "Bootstrap is not supproting in my java application",
+                "Status":"closed"
+              },
+              {
+                "id": 5,
+                "Severity": "Major",
+                "description": "Visual Studios is not supproting in my IOS",
+                "Status":"closed"
+              }
+    ]
+}
